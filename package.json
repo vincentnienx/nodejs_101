@@ -1,5 +1,4 @@
 {
-  "name": "node.js 101",
   "main": "main.js",
   "version": "0.0.0",
   "dependencies": {
