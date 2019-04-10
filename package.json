@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "build": "node main.js",
+    "test": "mocha test"
+  },
+  "dependencies": {
+    "should": "^13.2.3"
+  }
+}
