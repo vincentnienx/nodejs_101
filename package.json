@@ -13,7 +13,8 @@
   "dependencies": {
     "should": "^13.2.3",
     "applicationinsights": "^1.0.0",
-    "natives": "^1.1.6"
+    "natives": "^1.1.6",
+    "mocha": "^3.0.0"
   }
 }
 
